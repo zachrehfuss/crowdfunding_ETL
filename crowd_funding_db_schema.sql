@@ -1,8 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
-
-CREATE TABLE "campaign" (
+﻿CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
     "company_name" VARCHAR   NOT NULL,
