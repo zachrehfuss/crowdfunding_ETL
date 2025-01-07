@@ -25,5 +25,6 @@ to creating the category and subcategory dataframes and they helped me with the
 syntax for setting launch_date and end_date to datetime. In our second classroom
 work session, I worked with my classmates Alica, Toka, and Maxwell to edit
 some of the mistakes in my ERD and for correcting DATETIME variables to DATE. 
-Finally, my professor Thomas helped trouble shoot errors in creating the campaign
-cleaned dataframe.
+My professor Thomas helped trouble shoot errors in creating the campaign
+cleaned dataframe. Finally, the code for the SQL file was exported from
+QuickDataBaseDiagrams.com.
