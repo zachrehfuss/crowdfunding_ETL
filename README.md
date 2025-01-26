@@ -1,7 +1,7 @@
 # crowdfunding_ETL
 
 What is in this repo
-- Located in this repo is a jupyter notebook containing my starter code that
+- Located in this repo is a jupyter notebook containing my code that
 creates all of the CSVs for the crowdfunding_schema. Located in the Resources
 folder are the contacts.xlsx and crowdfunding.xlsx. as well as the 4 CSVs
 titled campaign, category, subcategory, and contacts. The crowd_funding_db_schema
